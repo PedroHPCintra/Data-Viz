@@ -1,0 +1,325 @@
+numbers_ptbr = [
+    'zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 
+    'dez', 'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 
+    'dezoito', 'dezenove', 'vinte', 'vinte e um', 'vinte e dois', 'vinte e três', 
+    'vinte e quatro', 'vinte e cinco', 'vinte e seis', 'vinte e sete', 'vinte e oito', 
+    'vinte e nove', 'trinta', 'trinta e um', 'trinta e dois', 'trinta e três', 
+    'trinta e quatro', 'trinta e cinco', 'trinta e seis', 'trinta e sete', 
+    'trinta e oito', 'trinta e nove', 'quarenta', 'quarenta e um', 'quarenta e dois', 
+    'quarenta e três', 'quarenta e quatro', 'quarenta e cinco', 'quarenta e seis', 
+    'quarenta e sete', 'quarenta e oito', 'quarenta e nove', 'cinquenta', 
+    'cinquenta e um', 'cinquenta e dois', 'cinquenta e três', 'cinquenta e quatro', 
+    'cinquenta e cinco', 'cinquenta e seis', 'cinquenta e sete', 'cinquenta e oito', 
+    'cinquenta e nove', 'sessenta', 'sessenta e um', 'sessenta e dois', 
+    'sessenta e três', 'sessenta e quatro', 'sessenta e cinco', 'sessenta e seis', 
+    'sessenta e sete', 'sessenta e oito', 'sessenta e nove', 'setenta', 
+    'setenta e um', 'setenta e dois', 'setenta e três', 'setenta e quatro', 
+    'setenta e cinco', 'setenta e seis', 'setenta e sete', 'setenta e oito', 
+    'setenta e nove', 'oitenta', 'oitenta e um', 'oitenta e dois', 'oitenta e três', 
+    'oitenta e quatro', 'oitenta e cinco', 'oitenta e seis', 'oitenta e sete', 
+    'oitenta e oito', 'oitenta e nove', 'noventa', 'noventa e um', 'noventa e dois', 
+    'noventa e três', 'noventa e quatro', 'noventa e cinco', 'noventa e seis', 
+    'noventa e sete', 'noventa e oito', 'noventa e nove', 'cem'
+]
+
+numbers_es = [
+    'cero', 'uno', 'dos', 'tres', 'cuatro', 'cinco', 'seis', 'siete', 'ocho', 'nueve', 
+    'diez', 'once', 'doce', 'trece', 'catorce', 'quince', 'dieciséis', 'diecisiete', 
+    'dieciocho', 'diecinueve', 'veinte', 'veintiuno', 'veintidós', 'veintitrés', 
+    'veinticuatro', 'veinticinco', 'veintiséis', 'veintisiete', 'veintiocho', 
+    'veintinueve', 'treinta', 'treinta y uno', 'treinta y dos', 'treinta y tres', 
+    'treinta y cuatro', 'treinta y cinco', 'treinta y seis', 'treinta y siete', 
+    'treinta y ocho', 'treinta y nueve', 'cuarenta', 'cuarenta y uno', 'cuarenta y dos', 
+    'cuarenta y tres', 'cuarenta y cuatro', 'cuarenta y cinco', 'cuarenta y seis', 
+    'cuarenta y siete', 'cuarenta y ocho', 'cuarenta y nueve', 'cincuenta', 
+    'cincuenta y uno', 'cincuenta y dos', 'cincuenta y tres', 'cincuenta y cuatro', 
+    'cincuenta y cinco', 'cincuenta y seis', 'cincuenta y siete', 'cincuenta y ocho', 
+    'cincuenta y nueve', 'sesenta', 'sesenta y uno', 'sesenta y dos', 'sesenta y tres', 
+    'sesenta y cuatro', 'sesenta y cinco', 'sesenta y seis', 'sesenta y siete', 
+    'sesenta y ocho', 'sesenta y nueve', 'setenta', 'setenta y uno', 'setenta y dos', 
+    'setenta y tres', 'setenta y cuatro', 'setenta y cinco', 'setenta y seis', 
+    'setenta y siete', 'setenta y ocho', 'setenta y nueve', 'ochenta', 'ochenta y uno', 
+    'ochenta y dos', 'ochenta y tres', 'ochenta y cuatro', 'ochenta y cinco', 
+    'ochenta y seis', 'ochenta y siete', 'ochenta y ocho', 'ochenta y nueve', 
+    'noventa', 'noventa y uno', 'noventa y dos', 'noventa y tres', 'noventa y cuatro', 
+    'noventa y cinco', 'noventa y seis', 'noventa y siete', 'noventa y ocho', 
+    'noventa y nueve', 'cien'
+]
+
+numbers_en = [
+    'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 
+    'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 
+    'seventeen', 'eighteen', 'nineteen', 'twenty', 'twenty-one', 'twenty-two', 
+    'twenty-three', 'twenty-four', 'twenty-five', 'twenty-six', 'twenty-seven', 
+    'twenty-eight', 'twenty-nine', 'thirty', 'thirty-one', 'thirty-two', 
+    'thirty-three', 'thirty-four', 'thirty-five', 'thirty-six', 'thirty-seven', 
+    'thirty-eight', 'thirty-nine', 'forty', 'forty-one', 'forty-two', 'forty-three', 
+    'forty-four', 'forty-five', 'forty-six', 'forty-seven', 'forty-eight', 
+    'forty-nine', 'fifty', 'fifty-one', 'fifty-two', 'fifty-three', 'fifty-four', 
+    'fifty-five', 'fifty-six', 'fifty-seven', 'fifty-eight', 'fifty-nine', 'sixty', 
+    'sixty-one', 'sixty-two', 'sixty-three', 'sixty-four', 'sixty-five', 'sixty-six', 
+    'sixty-seven', 'sixty-eight', 'sixty-nine', 'seventy', 'seventy-one', 
+    'seventy-two', 'seventy-three', 'seventy-four', 'seventy-five', 'seventy-six', 
+    'seventy-seven', 'seventy-eight', 'seventy-nine', 'eighty', 'eighty-one', 
+    'eighty-two', 'eighty-three', 'eighty-four', 'eighty-five', 'eighty-six', 
+    'eighty-seven', 'eighty-eight', 'eighty-nine', 'ninety', 'ninety-one', 
+    'ninety-two', 'ninety-three', 'ninety-four', 'ninety-five', 'ninety-six', 
+    'ninety-seven', 'ninety-eight', 'ninety-nine', 'one hundred'
+]
+
+numbers_fr = [
+    'zéro', 'un', 'deux', 'trois', 'quatre', 'cinq', 'six', 'sept', 'huit', 'neuf', 
+    'dix', 'onze', 'douze', 'treize', 'quatorze', 'quinze', 'seize', 'dix-sept', 
+    'dix-huit', 'dix-neuf', 'vingt', 'vingt et un', 'vingt-deux', 'vingt-trois', 
+    'vingt-quatre', 'vingt-cinq', 'vingt-six', 'vingt-sept', 'vingt-huit', 
+    'vingt-neuf', 'trente', 'trente et un', 'trente-deux', 'trente-trois', 
+    'trente-quatre', 'trente-cinq', 'trente-six', 'trente-sept', 'trente-huit', 
+    'trente-neuf', 'quarante', 'quarante et un', 'quarante-deux', 'quarante-trois', 
+    'quarante-quatre', 'quarante-cinq', 'quarante-six', 'quarante-sept', 
+    'quarante-huit', 'quarante-neuf', 'cinquante', 'cinquante et un', 
+    'cinquante-deux', 'cinquante-trois', 'cinquante-quatre', 'cinquante-cinq', 
+    'cinquante-six', 'cinquante-sept', 'cinquante-huit', 'cinquante-neuf', 
+    'soixante', 'soixante et un', 'soixante-deux', 'soixante-trois', 'soixante-quatre', 
+    'soixante-cinq', 'soixante-six', 'soixante-sept', 'soixante-huit', 'soixante-neuf', 
+    'soixante-dix', 'soixante et onze', 'soixante-douze', 'soixante-treize', 
+    'soixante-quatorze', 'soixante-quinze', 'soixante-seize', 'soixante-dix-sept', 
+    'soixante-dix-huit', 'soixante-dix-neuf', 'quatre-vingts', 'quatre-vingt-un', 
+    'quatre-vingt-deux', 'quatre-vingt-trois', 'quatre-vingt-quatre', 
+    'quatre-vingt-cinq', 'quatre-vingt-six', 'quatre-vingt-sept', 'quatre-vingt-huit', 
+    'quatre-vingt-neuf', 'quatre-vingt-dix', 'quatre-vingt-onze', 'quatre-vingt-douze', 
+    'quatre-vingt-treize', 'quatre-vingt-quatorze', 'quatre-vingt-quinze', 
+    'quatre-vingt-seize', 'quatre-vingt-dix-sept', 'quatre-vingt-dix-huit', 
+    'quatre-vingt-dix-neuf', 'cent'
+]
+
+numbers_de = [
+    'null', 'eins', 'zwei', 'drei', 'vier', 'fünf', 'sechs', 'sieben', 'acht', 'neun', 
+    'zehn', 'elf', 'zwölf', 'dreizehn', 'vierzehn', 'fünfzehn', 'sechzehn', 'siebzehn', 
+    'achtzehn', 'neunzehn', 'zwanzig', 'einundzwanzig', 'zweiundzwanzig', 
+    'dreiundzwanzig', 'vierundzwanzig', 'fünfundzwanzig', 'sechsundzwanzig', 
+    'siebenundzwanzig', 'achtundzwanzig', 'neunundzwanzig', 'dreißig', 
+    'einunddreißig', 'zweiunddreißig', 'dreiunddreißig', 'vierunddreißig', 
+    'fünfunddreißig', 'sechsunddreißig', 'siebenunddreißig', 'achtunddreißig', 
+    'neununddreißig', 'vierzig', 'einundvierzig', 'zweiundvierzig', 'dreiundvierzig', 
+    'vierundvierzig', 'fünfundvierzig', 'sechsundvierzig', 'siebenundvierzig', 
+    'achtundvierzig', 'neunundvierzig', 'fünfzig', 'einundfünfzig', 'zweiundfünfzig', 
+    'dreiundfünfzig', 'vierundfünfzig', 'fünfundfünfzig', 'sechsundfünfzig', 
+    'siebenundfünfzig', 'achtundfünfzig', 'neunundfünfzig', 'sechzig', 
+    'einundsechzig', 'zweiundsechzig', 'dreiundsechzig', 'vierundsechzig', 
+    'fünfundsechzig', 'sechsundsechzig', 'siebenundsechzig', 'achtundsechzig', 
+    'neunundsechzig', 'siebzig', 'einundsiebzig', 'zweiundsiebzig', 'dreiundsiebzig', 
+    'vierundsiebzig', 'fünfundsiebzig', 'sechsundsiebzig', 'siebenundsiebzig', 
+    'achtundsiebzig', 'neunundsiebzig', 'achtzig', 'einundachtzig', 'zweiundachtzig', 
+    'dreiundachtzig', 'vierundachtzig', 'fünfundachtzig', 'sechsundachtzig', 
+    'siebenundachtzig', 'achtundachtzig', 'neunundachtzig', 'neunzig', 
+    'einundneunzig', 'zweiundneunzig', 'dreiundneunzig', 'vierundneunzig', 
+    'fünfundneunzig', 'sechsundneunzig', 'siebenundneunzig', 'achtundneunzig', 
+    'neunundneunzig', 'hundert'
+]
+
+numbers_it = [
+    'zero', 'uno', 'due', 'tre', 'quattro', 'cinque', 'sei', 'sette', 'otto', 'nove', 
+    'dieci', 'undici', 'dodici', 'tredici', 'quattordici', 'quindici', 'sedici', 
+    'diciassette', 'diciotto', 'diciannove', 'venti', 'ventuno', 'ventidue', 
+    'ventitré', 'ventiquattro', 'venticinque', 'ventisei', 'ventisette', 
+    'ventotto', 'ventinove', 'trenta', 'trentuno', 'trentadue', 'trentatré', 
+    'trentaquattro', 'trentacinque', 'trentasei', 'trentasette', 'trentotto', 
+    'trentanove', 'quaranta', 'quarantuno', 'quarantadue', 'quarantatré', 
+    'quarantaquattro', 'quarantacinque', 'quarantasei', 'quarantasette', 
+    'quarantotto', 'quarantanove', 'cinquanta', 'cinquantuno', 'cinquantadue', 
+    'cinquantatré', 'cinquantaquattro', 'cinquantacinque', 'cinquantasei', 
+    'cinquantasette', 'cinquantotto', 'cinquantanove', 'sessanta', 'sessantuno', 
+    'sessantadue', 'sessantatré', 'sessantaquattro', 'sessantacinque', 'sessantasei', 
+    'sessantasette', 'sessantotto', 'sessantanove', 'settanta', 'settantuno', 
+    'settantadue', 'settantatré', 'settantaquattro', 'settantacinque', 'settantasei', 
+    'settantasette', 'settantotto', 'settantanove', 'ottanta', 'ottantuno', 
+    'ottantadue', 'ottantatré', 'ottantaquattro', 'ottantacinque', 'ottantasei', 
+    'ottantasette', 'ottantotto', 'ottantanove', 'novanta', 'novantuno', 
+    'novantadue', 'novantatré', 'novantaquattro', 'novantacinque', 'novantasei', 
+    'novantasette', 'novantotto', 'novantanove', 'cento'
+]
+
+numbers_is = [
+    'núll', 'einn', 'tveir', 'þrír', 'fjórir', 'fimm', 'sex', 'sjö', 'átta', 'níu', 
+    'tíu', 'ellefu', 'tólf', 'þrettán', 'fjórtán', 'fimmtán', 'sextán', 'sautján', 
+    'átján', 'nítján', 'tuttugu', 'tuttugu og einn', 'tuttugu og tveir', 
+    'tuttugu og þrír', 'tuttugu og fjórir', 'tuttugu og fimm', 'tuttugu og sex', 
+    'tuttugu og sjö', 'tuttugu og átta', 'tuttugu og níu', 'þrjátíu', 'þrjátíu og einn', 
+    'þrjátíu og tveir', 'þrjátíu og þrír', 'þrjátíu og fjórir', 'þrjátíu og fimm', 
+    'þrjátíu og sex', 'þrjátíu og sjö', 'þrjátíu og átta', 'þrjátíu og níu', 
+    'fjörutíu', 'fjörutíu og einn', 'fjörutíu og tveir', 'fjörutíu og þrír', 
+    'fjörutíu og fjórir', 'fjörutíu og fimm', 'fjörutíu og sex', 'fjörutíu og sjö', 
+    'fjörutíu og átta', 'fjörutíu og níu', 'fimmtíu', 'fimmtíu og einn', 
+    'fimmtíu og tveir', 'fimmtíu og þrír', 'fimmtíu og fjórir', 'fimmtíu og fimm', 
+    'fimmtíu og sex', 'fimmtíu og sjö', 'fimmtíu og átta', 'fimmtíu og níu', 
+    'sextíu', 'sextíu og einn', 'sextíu og tveir', 'sextíu og þrír', 'sextíu og fjórir', 
+    'sextíu og fimm', 'sextíu og sex', 'sextíu og sjö', 'sextíu og átta', 
+    'sextíu og níu', 'sjötíu', 'sjötíu og einn', 'sjötíu og tveir', 'sjötíu og þrír', 
+    'sjötíu og fjórir', 'sjötíu og fimm', 'sjötíu og sex', 'sjötíu og sjö', 
+    'sjötíu og átta', 'sjötíu og níu', 'áttatíu', 'áttatíu og einn', 'áttatíu og tveir', 
+    'áttatíu og þrír', 'áttatíu og fjórir', 'áttatíu og fimm', 'áttatíu og sex', 
+    'áttatíu og sjö', 'áttatíu og átta', 'áttatíu og níu', 'níutíu', 'níutíu og einn', 
+    'níutíu og tveir', 'níutíu og þrír', 'níutíu og fjórir', 'níutíu og fimm', 
+    'níutíu og sex', 'níutíu og sjö', 'níutíu og átta', 'níutíu og níu', 'hundrað'
+]
+
+numbers_da = [
+    'nul', 'en', 'to', 'tre', 'fire', 'fem', 'seks', 'syv', 'otte', 'ni', 
+    'ti', 'elleve', 'tolv', 'tretten', 'fjorten', 'femten', 'seksten', 'sytten', 
+    'atten', 'nitten', 'tyve', 'enogtyve', 'toogtyve', 'treogtyve', 'fireogtyve', 
+    'femogtyve', 'seksogtyve', 'syvogtyve', 'otteogtyve', 'niogtyve', 'tredive', 
+    'enogtredive', 'toogtredive', 'treogtredive', 'fireogtredive', 'femogtredive', 
+    'seksogtredive', 'syvogtredive', 'otteogtredive', 'niogtredive', 'fyrre', 
+    'enogfyrre', 'toogfyrre', 'treogfyrre', 'fireogfyrre', 'femogfyrre', 
+    'seksogfyrre', 'syvogfyrre', 'otteogfyrre', 'niogfyrre', 'halvtreds', 
+    'enoghalvtreds', 'tooghalvtreds', 'treoghalvtreds', 'fireoghalvtreds', 
+    'femoghalvtreds', 'seksoghalvtreds', 'syvoghalvtreds', 'otteoghalvtreds', 
+    'nioghalvtreds', 'tres', 'enogtres', 'toogtres', 'treogtres', 'fireogtres', 
+    'femogtres', 'seksogtres', 'syvogtres', 'otteogtres', 'niogtres', 'halvfjerds', 
+    'enoghalvfjerds', 'tooghalvfjerds', 'treoghalvfjerds', 'fireoghalvfjerds', 
+    'femoghalvfjerds', 'seksoghalvfjerds', 'syvoghalvfjerds', 'otteoghalvfjerds', 
+    'nioghalvfjerds', 'firs', 'enogfirs', 'toogfirs', 'treogfirs', 'fireogfirs', 
+    'femogfirs', 'seksogfirs', 'syvogfirs', 'otteogfirs', 'niogfirs', 'halvfems', 
+    'enoghalvfems', 'tooghalvfems', 'treoghalvfems', 'fireoghalvfems', 
+    'femoghalvfems', 'seksoghalvfems', 'syvoghalvfems', 'otteoghalvfems', 
+    'nioghalvfems', 'hundrede'
+]
+
+numbers_zh_cn = [
+    '零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二', '十三', '十四', 
+    '十五', '十六', '十七', '十八', '十九', '二十', '二十一', '二十二', '二十三', '二十四', '二十五', 
+    '二十六', '二十七', '二十八', '二十九', '三十', '三十一', '三十二', '三十三', '三十四', '三十五', 
+    '三十六', '三十七', '三十八', '三十九', '四十', '四十一', '四十二', '四十三', '四十四', '四十五', 
+    '四十六', '四十七', '四十八', '四十九', '五十', '五十一', '五十二', '五十三', '五十四', '五十五', 
+    '五十六', '五十七', '五十八', '五十九', '六十', '六十一', '六十二', '六十三', '六十四', '六十五', 
+    '六十六', '六十七', '六十八', '六十九', '七十', '七十一', '七十二', '七十三', '七十四', '七十五', 
+    '七十六', '七十七', '七十八', '七十九', '八十', '八十一', '八十二', '八十三', '八十四', '八十五', 
+    '八十六', '八十七', '八十八', '八十九', '九十', '九十一', '九十二', '九十三', '九十四', '九十五', 
+    '九十六', '九十七', '九十八', '九十九', '一百'
+]
+
+numbers_zh_tw = [
+    '零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二', '十三', '十四', 
+    '十五', '十六', '十七', '十八', '十九', '二十', '二十一', '二十二', '二十三', '二十四', '二十五', 
+    '二十六', '二十七', '二十八', '二十九', '三十', '三十一', '三十二', '三十三', '三十四', '三十五', 
+    '三十六', '三十七', '三十八', '三十九', '四十', '四十一', '四十二', '四十三', '四十四', '四十五', 
+    '四十六', '四十七', '四十八', '四十九', '五十', '五十一', '五十二', '五十三', '五十四', '五十五', 
+    '五十六', '五十七', '五十八', '五十九', '六十', '六十一', '六十二', '六十三', '六十四', '六十五', 
+    '六十六', '六十七', '六十八', '六十九', '七十', '七十一', '七十二', '七十三', '七十四', '七十五', 
+    '七十六', '七十七', '七十八', '七十九', '八十', '八十一', '八十二', '八十三', '八十四', '八十五', 
+    '八十六', '八十七', '八十八', '八十九', '九十', '九十一', '九十二', '九十三', '九十四', '九十五', 
+    '九十六', '九十七', '九十八', '九十九', '一百'
+]
+
+numbers_ja_hiragana = [
+    'ぜろ', 'いち', 'に', 'さん', 'し', 'ご', 'ろく', 'しち', 'はち', 'きゅう', 'じゅう', 'じゅういち', 'じゅうに', 
+    'じゅうさん', 'じゅうし', 'じゅうご', 'じゅうろく', 'じゅうしち', 'じゅうはち', 'じゅうきゅう', 'にじゅう', 
+    'にじゅういち', 'にじゅうに', 'にじゅうさん', 'にじゅうし', 'にじゅうご', 'にじゅうろく', 'にじゅうしち', 
+    'にじゅうはち', 'にじゅうきゅう', 'さんじゅう', 'さんじゅういち', 'さんじゅうに', 'さんじゅうさん', 
+    'さんじゅうし', 'さんじゅうご', 'さんじゅうろく', 'さんじゅうしち', 'さんじゅうはち', 'さんじゅうきゅう', 
+    'よんじゅう', 'よんじゅういち', 'よんじゅうに', 'よんじゅうさん', 'よんじゅうし', 'よんじゅうご', 
+    'よんじゅうろく', 'よんじゅうしち', 'よんじゅうはち', 'よんじゅうきゅう', 'ごじゅう', 'ごじゅういち', 
+    'ごじゅうに', 'ごじゅうさん', 'ごじゅうし', 'ごじゅうご', 'ごじゅうろく', 'ごじゅうしち', 'ごじゅうはち', 
+    'ごじゅうきゅう', 'ろくじゅう', 'ろくじゅういち', 'ろくじゅうに', 'ろくじゅうさん', 'ろくじゅうし', 
+    'ろくじゅうご', 'ろくじゅうろく', 'ろくじゅうしち', 'ろくじゅうはち', 'ろくじゅうきゅう', 'しちじゅう', 
+    'しちじゅういち', 'しちじゅうに', 'しちじゅうさん', 'しちじゅうし', 'しちじゅうご', 'しちじゅうろく', 
+    'しちじゅうしち', 'しちじゅうはち', 'しちじゅうきゅう', 'はちじゅう', 'はちじゅういち', 'はちじゅうに', 
+    'はちじゅうさん', 'はちじゅうし', 'はちじゅうご', 'はちじゅうろく', 'はちじゅうしち', 'はちじゅうはち', 
+    'はちじゅうきゅう', 'きゅうじゅう', 'きゅうじゅういち', 'きゅうじゅうに', 'きゅうじゅうさん', 'きゅうじゅうし', 
+    'きゅうじゅうご', 'きゅうじゅうろく', 'きゅうじゅうしち', 'きゅうじゅうはち', 'きゅうじゅうきゅう', 'ひゃく'
+]
+
+numbers_ja_katakana = [
+    'ゼロ', 'イチ', 'ニ', 'サン', 'シ', 'ゴ', 'ロク', 'シチ', 'ハチ', 'キュウ', 'ジュウ', 'ジュウイチ', 'ジュウニ', 
+    'ジュウサン', 'ジュウシ', 'ジュウゴ', 'ジュウロク', 'ジュウシチ', 'ジュウハチ', 'ジュウキュウ', 'ニジュウ', 
+    'ニジュウイチ', 'ニジュウニ', 'ニジュウサン', 'ニジュウシ', 'ニジュウゴ', 'ニジュウロク', 'ニジュウシチ', 
+    'ニジュウハチ', 'ニジュウキュウ', 'サンジュウ', 'サンジュウイチ', 'サンジュウニ', 'サンジュウサン', 
+    'サンジュウシ', 'サンジュウゴ', 'サンジュウロク', 'サンジュウシチ', 'サンジュウハチ', 'サンジュウキュウ', 
+    'ヨンジュウ', 'ヨンジュウイチ', 'ヨンジュウニ', 'ヨンジュウサン', 'ヨンジュウシ', 'ヨンジュウゴ', 
+    'ヨンジュウロク', 'ヨンジュウシチ', 'ヨンジュウハチ', 'ヨンジュウキュウ', 'ゴジュウ', 'ゴジュウイチ', 
+    'ゴジュウニ', 'ゴジュウサン', 'ゴジュウシ', 'ゴジュウゴ', 'ゴジュウロク', 'ゴジュウシチ', 'ゴジュウハチ', 
+    'ゴジュウキュウ', 'ロクジュウ', 'ロクジュウイチ', 'ロクジュウニ', 'ロクジュウサン', 'ロクジュウシ', 
+    'ロクジュウゴ', 'ロクジュウロク', 'ロクジュウシチ', 'ロクジュウハチ', 'ロクジュウキュウ', 'シチジュウ', 
+    'シチジュウイチ', 'シチジュウニ', 'シチジュウサン', 'シチジュウシ', 'シチジュウゴ', 'シチジュウロク', 
+    'シチジュウシチ', 'シチジュウハチ', 'シチジュウキュウ', 'ハチジュウ', 'ハチジュウイチ', 'ハチジュウニ', 
+    'ハチジュウサン', 'ハチジュウシ', 'ハチジュウゴ', 'ハチジュウロク', 'ハチジュウシチ', 'ハチジュウハチ', 
+    'ハチジュウキュウ', 'キュウジュウ', 'キュウジュウイチ', 'キュウジュウニ', 'キュウジュウサン', 'キュウジュウシ', 
+    'キュウジュウゴ', 'キュウジュウロク', 'キュウジュウシチ', 'キュウジュウハチ', 'キュウジュウキュウ', 'ヒャク'
+]
+
+
+numbers_ko = [
+    '영', '일', '이', '삼', '사', '오', '육', '칠', '팔', '구', '십', '십일', '십이', '십삼', '십사', 
+    '십오', '십육', '십칠', '십팔', '십구', '이십', '이십일', '이십이', '이십삼', '이십사', '이십오', 
+    '이십육', '이십칠', '이십팔', '이십구', '삼십', '삼십일', '삼십이', '삼십삼', '삼십사', '삼십오', 
+    '삼십육', '삼십칠', '삼십팔', '삼십구', '사십', '사십일', '사십이', '사십삼', '사십사', '사십오', 
+    '사십육', '사십칠', '사십팔', '사십구', '오십', '오십일', '오십이', '오십삼', '오십사', '오십오', 
+    '오십육', '오십칠', '오십팔', '오십구', '육십', '육십일', '육십이', '육십삼', '육십사', '육십오', 
+    '육십육', '육십칠', '육십팔', '육십구', '칠십', '칠십일', '칠십이', '칠십삼', '칠십사', '칠십오', 
+    '칠십육', '칠십칠', '칠십팔', '칠십구', '팔십', '팔십일', '팔십이', '팔십삼', '팔십사', '팔십오', 
+    '팔십육', '팔십칠', '팔십팔', '팔십구', '구십', '구십일', '구십이', '구십삼', '구십사', '구십오', 
+    '구십육', '구십칠', '구십팔', '구십구', '백'
+]
+
+numbers_sv = [
+    'noll', 'ett', 'två', 'tre', 'fyra', 'fem', 'sex', 'sju', 'åtta', 'nio', 
+    'tio', 'elva', 'tolv', 'tretton', 'fjorton', 'femton', 'sexton', 'sjutton', 
+    'arton', 'nitton', 'tjugo', 'tjugoett', 'tjugotvå', 'tjugotre', 'tjugofyra', 
+    'tjugofem', 'tjugosex', 'tjugosju', 'tjugoåtta', 'tjugonio', 'trettio', 
+    'trettioett', 'trettiotvå', 'trettiotre', 'trettiofyra', 'trettiofem', 
+    'trettiosex', 'trettiosju', 'trettioåtta', 'trettionio', 'fyrtio', 
+    'fyrtioett', 'fyrtiotvå', 'fyrtiotre', 'fyrtiofyra', 'fyrtiofem', 
+    'fyrtiosex', 'fyrtiosju', 'fyrtioåtta', 'fyrtionio', 'femtio', 'femtioett', 
+    'femtiotvå', 'femtiotre', 'femtiofyra', 'femtiofem', 'femtiosex', 
+    'femtiosju', 'femtioåtta', 'femtionio', 'sextio', 'sextioett', 'sextiotvå', 
+    'sextiotre', 'sextiofyra', 'sextiofem', 'sextiosex', 'sextiosju', 'sextioåtta', 
+    'sextionio', 'sjuttio', 'sjuttioett', 'sjuttiotvå', 'sjuttiotre', 'sjuttiofyra', 
+    'sjuttiofem', 'sjuttiosex', 'sjuttiosju', 'sjuttioåtta', 'sjuttionio', 'åttio', 
+    'åttioett', 'åttiotvå', 'åttiotre', 'åttiofyra', 'åttiofem', 'åttiosex', 
+    'åttiosju', 'åttioåtta', 'åttionio', 'nittio', 'nittioett', 'nittiotvå', 
+    'nittiotre', 'nittiofyra', 'nittiofem', 'nittiosex', 'nittiosju', 'nittioåtta', 
+    'nittionio', 'hundra'
+]
+
+numbers_nl = [
+    'nul', 'een', 'twee', 'drie', 'vier', 'vijf', 'zes', 'zeven', 'acht', 'negen', 
+    'tien', 'elf', 'twaalf', 'dertien', 'veertien', 'vijftien', 'zestien', 
+    'zeventien', 'achttien', 'negentien', 'twintig', 'eenentwintig', 'tweeëntwintig', 
+    'drieëntwintig', 'vierentwintig', 'vijfentwintig', 'zesentwintig', 'zevenentwintig', 
+    'achtentwintig', 'negenentwintig', 'dertig', 'eenendertig', 'tweeëndertig', 
+    'drieëndertig', 'vierendertig', 'vijfendertig', 'zesendertig', 'zevenendertig', 
+    'achtendertig', 'negenendertig', 'veertig', 'eenenveertig', 'tweeënveertig', 
+    'drieënveertig', 'vierenveertig', 'vijfenveertig', 'zesenveertig', 'zevenenveertig', 
+    'achtenveertig', 'negenenveertig', 'vijftig', 'eenenvijftig', 'tweeënvijftig', 
+    'drieënvijftig', 'vierenvijftig', 'vijfenvijftig', 'zesenvijftig', 'zevenenvijftig', 
+    'achtenvijftig', 'negenenvijftig', 'zestig', 'eenenzestig', 'tweeënzestig', 
+    'drieënzestig', 'vierenzestig', 'vijfenzestig', 'zesenzestig', 'zevenenzestig', 
+    'achtenzestig', 'negenenzestig', 'zeventig', 'eenenzeventig', 'tweeënzeventig', 
+    'drieënzeventig', 'vierenzeventig', 'vijfenzeventig', 'zesenzeventig', 
+    'zevenenzeventig', 'achtenzeventig', 'negenenzeventig', 'tachtig', 'eenenachtig', 
+    'tweeënachtig', 'drieënachtig', 'vierenachtig', 'vijfenachtig', 'zesenachtig', 
+    'zevenenachtig', 'achtenachtig', 'negenenachtig', 'negentig', 'eenennegentig', 
+    'tweeënnegentig', 'drieënnegentig', 'vierennegentig', 'vijfennegentig', 
+    'zesennegentig', 'zevenennegentig', 'achtennegentig', 'negenennegentig', 'honderd'
+]
+
+numbers_fo = [
+    'null', 'eitt', 'tvey', 'trý', 'fýra', 'fimm', 'seks', 'sjey', 'átta', 'níggju', 
+    'tíggju', 'ellivu', 'tólv', 'trettan', 'fjúrtan', 'fimtán', 'sekstan', 'seytjan', 
+    'átjan', 'nítjan', 'tjúgu', 'eintjúgu', 'tveyogtjúgu', 'trýogtjúgu', 'fýraogtjúgu', 
+    'fimmogtjúgu', 'seksogtjúgu', 'sjeyogtjúgu', 'áttaogtjúgu', 'níggjuogtjúgu', 'tríati', 
+    'einogtríati', 'tveyogtríati', 'trýogtríati', 'fýraogtríati', 'fimmogtríati', 
+    'seksogtríati', 'sjeyogtríati', 'áttaogtríati', 'níggjuogtríati', 'fjøruti', 
+    'einogfjøruti', 'tveyogfjøruti', 'trýogfjøruti', 'fýraogfjøruti', 'fimmogfjøruti', 
+    'seksogfjøruti', 'sjeyogfjøruti', 'áttaogfjøruti', 'níggjuogfjøruti', 'fimmti', 
+    'einogfimmti', 'tveyogfimmti', 'trýogfimmti', 'fýraogfimmti', 'fimmogfimmti', 
+    'seksogfimmti', 'sjeyogfimmti', 'áttaogfimmti', 'níggjuogfimmti', 'seksti', 
+    'einogseksti', 'tveyogseksti', 'trýogseksti', 'fýraogseksti', 'fimmogseksti', 
+    'seksogseksti', 'sjeyogseksti', 'áttaogseksti', 'níggjuogseksti', 'sjeyti', 
+    'einogsjeyti', 'tveyogsjeyti', 'trýogsjeyti', 'fýraogsjeyti', 'fimmogsjeyti', 
+    'seksogsjeyti', 'sjeyogsjeyti', 'áttaogsjeyti', 'níggjuogsjeyti', 'áttati', 
+    'einogáttati', 'tveyogáttati', 'trýogáttati', 'fýraogáttati', 'fimmogáttati', 
+    'seksogáttati', 'sjeyogáttati', 'áttaogáttati', 'níggjuogáttati', 'níti', 
+    'einogníti', 'tveyogníti', 'trýogníti', 'fýraogníti', 'fimmogníti', 'seksogníti', 
+    'sjeyogníti', 'áttaogníti', 'níggjuogníti', 'hundrað'
+]
